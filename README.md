@@ -27,3 +27,6 @@ iterations - 10
 
 The best RMSE is therefore .93 for the ALS method. 
 Note : This model processed the complete dataset [ almost 2GB] in really short span of time due to Spark. 
+
+
+Note : Some part of the code to pre-process the data is from a kernel (https://www.kaggle.com/netflix-inc/netflix-prize-data)
